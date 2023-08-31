@@ -1,0 +1,5 @@
+# Ignorar relatorios HTML do k6
+*.html
+
+# Ignorar XML com resultados do k6 convertidos para o formato do JUnit
+*.xml
